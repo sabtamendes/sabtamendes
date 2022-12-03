@@ -10,29 +10,32 @@
   <br />--> 
   <h3>Languages and Tools:</h3>
   <div align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="28px" alt="javascript logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="28px" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"   width="28px" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"   width="28px" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28px" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"   width="28px" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"   width="28px" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30px" alt="figma logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28px" alt="react logo"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"width="28px" alt="nodejs logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="28px" alt="nodejs logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="28px" alt="nodejs logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="28px" alt="nodejs logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="35px"alt="npm logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" width="28px" alt="nodejs logo"/>     
 <br />
+  <img src="https://img.shields.io/badge/JavaScript-560bad?style=for-the-badge&logo=javascript&logoColor=white" />
+ <img src="https://img.shields.io/badge/Node%20js-560bad?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Express%20js-560bad?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-560bad?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-560bad?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-560bad?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-560bad?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-560bad?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/styled--components-560bad?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-560bad?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-560bad?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-560bad?style=for-the-badge&logo=linux&logoColor=white" />
 <br />
-<br />
+  <br />
+  <br />
+   <img src="https://img.shields.io/badge/Trello-560bad?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-560bad?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-560bad?style=for-the-badge&logo=discord&logoColor=white" />
+  <br />
+  <br />
+  <br />
 <details>
   <summary>:zap: GitHub Stats</summary>
  <img align="left" alt="Sabta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sabtamendes&count_private=true&show_icons=true"/>
     </details>
-    <br />
     <details>
   <summary>:zap: GitHub Most Used Languages</summary>
  <img align="left" alt="Sabta's GitHub Top Languages" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sabtamendes&&langs_count=6" />
