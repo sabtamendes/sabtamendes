@@ -1,13 +1,13 @@
 <h1>Hello! I'm Sabta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px"/></h1>
   <br />
   <br /> 
-  <h6>Contact me, will be nice!</h6>
+ <!-- <h6>Contact me, will be nice!</h6>
     <a href="https://www.linkedin.com/in/sabta-alencar/">
- <!--versao black <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />-->          
+ <!--versao black <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />         
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" alt="logo" />
 </a>
   <br />
-  <br />
+  <br />--> 
   <h3>Languages and Tools:</h3>
   <div align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="28px" alt="javascript logo" />
