@@ -1,28 +1,21 @@
 <h1>Hello! I'm Sabta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px"/></h1>
   <br />
-  <br /> 
- <!-- <h6>Contact me, will be nice!</h6>
-    <a href="https://www.linkedin.com/in/sabta-alencar/">
- <!--versao black <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />         
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" alt="logo" />
-</a>
-  <br />
-  <br />--> 
-  <h3>Languages and Tools:</h3>
+  <h3>Languages and tools:</h3>
   <div align="left">
 <br />
-  <img src="https://img.shields.io/badge/JavaScript-560bad?style=for-the-badge&logo=javascript&logoColor=white" />
+ <img src="https://img.shields.io/badge/MongoDB-560bad?style=for-the-badge&logo=mongodb&logoColor=white" />
+ <img src="https://img.shields.io/badge/Express%20js-560bad?style=for-the-badge&logo=express&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/React-560bad?style=for-the-badge&logo=react&logoColor=white" />
  <img src="https://img.shields.io/badge/Node%20js-560bad?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Express%20js-560bad?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-560bad?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-560bad?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-560bad?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-560bad?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-560bad?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/styled--components-560bad?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-560bad?style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/styled--components-560bad?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-560bad?style=for-the-badge&logo=npm&logoColor=white"/><br />
   <img src="https://img.shields.io/badge/Figma-560bad?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-560bad?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-560bad?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-560bad?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-560bad?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-560bad?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-560bad?style=for-the-badge&logo=css3&logoColor=white" />
 <br />
   <br />
   <br />
