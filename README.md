@@ -4,7 +4,7 @@
 <div align="center">
  Sobre mim 😊
  
-Minha paixão pela programação começou quando eu era adolescente e observava minha irmã trabalhar em seus projetos no bloco de notas. Essa fascinação nunca saiu de mim e, depois de anos, decidi aprender algo novo e desafiador. Foi assim que eu comecei minha jornada como desenvolvedora full stack.
+Minha paixão pela programação começou na adolescência observavando minha irmã trabalhar em seus projetos no bloco de notas. Essa fascinação nunca saiu de mim e, depois de anos, decidi aprender algo novo e desafiador. Foi assim que eu comecei minha jornada como desenvolvedora full stack.
  
  <br></br>
  Competências 🔧
