@@ -34,7 +34,7 @@ Além de programar, eu tenho diversos hobbies! Aqui estão alguns deles:
 [![Email Badge](https://img.shields.io/badge/-Email-purple?style=flat-square&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox?compose=new&to=sabtaamendes%40gmail.com)](https://mail.google.com/mail/u/0/#inbox?compose=new&to=sabtaamendes%40gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-purple?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sabta-alencar/
 )](https://www.linkedin.com/in/sabta-alencar/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-purple?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5592991284616)](https://wa.me/5592991284616)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-purple?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5592992593300)](https://wa.me/5592992593300)
 
 
 </div>
