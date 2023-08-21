@@ -14,10 +14,12 @@ Aqui estão algumas das minhas habilidades técnicas:
 | Área          | Competências                                             |
 |---------------|----------------------------------------------------------|
 | Front-end     | HTML5, CSS3, JavaScript, React, Styled Components, Figma |
-| Back-end      | Node.js, NestJs, TypeScript, Express, Prisma             |
-| Banco de dados| PostgreSQL, MongoDB                                      |
-| DevOps        | Git, GitHub Actions, Docker, AWS                         |
+| Back-end      | Node.js, NestJs, TypeScript, Express, Prisma(ORM), Python, Tortoise(ORM), Graphql             |
+| Banco de dados| PostgreSQL, MongoDB, SQLite3                                      |
+| DevOps        | Git, GitHub Actions, Docker, AWS, Google Cloud           |
 | Metodologias  | Agile, Scrum, Kanban, Jira, Trello                       |
+| Ferramentas   | DBeaver, PgAdmin, Terminal,                        |
+ 
 
   <br></br>
  Hobbies 🎉
