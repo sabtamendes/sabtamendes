@@ -21,14 +21,7 @@ Aqui estão algumas das minhas habilidades técnicas:
 | Ferramentas   | DBeaver, PgAdmin, Terminal,                        |
  
 
-  <br></br>
- Hobbies 🎉
-
-Além de programar, eu tenho diversos hobbies! Aqui estão alguns deles:
-
-     Ler webtoons 📚
-     Jogar jogos de tabuleiro 🎲
-         Fazer caminhadas e trilhas 🌄    
+ 
 
   <br></br>
  Contato
