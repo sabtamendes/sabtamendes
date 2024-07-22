@@ -15,7 +15,7 @@ Aqui estão algumas das minhas habilidades técnicas:
 |---------------|----------------------------------------------------------|
 | Front-end     | HTML5, CSS3, JavaScript, React, Vite, Styled Components, Figma |
 | Back-end      | Node.js, NestJs, TypeScript, Express, Prisma(ORM), Python, Tortoise(ORM), Graphql             |
-| Banco de dados| PostgreSQL, MongoDB, SQLite3                                      |
+| Banco de dados| PostgreSQL, MongoDB, SQLite3 | SQLAlchemy                                    |
 | DevOps        | Git, GitHub Actions, GitLab, Docker, AWS, Google Cloud           |
 | Metodologias  | Agile, Scrum, Kanban, Jira, Trello                       |
 | Ferramentas   | DBeaver, PgAdmin, Terminal,                        |
